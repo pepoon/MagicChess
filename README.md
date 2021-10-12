@@ -9,7 +9,7 @@ A random Magic Chess Game.
 ## Mongosh shell command guide:
 https://docs.mongodb.com/mongodb-shell/install/
 
-## Intall Docker platform:
+## Docker platform:
 https://docs.docker.com/get-docker/
 
 ## What can it do?
