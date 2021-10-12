@@ -4,12 +4,12 @@
 A random Magic Chess Game.
 
 
-## MagicChess Installation Guide
+# MagicChess Installation Guide
 
-# Mongosh shell command guide:
+## Mongosh shell command guide:
 https://docs.mongodb.com/mongodb-shell/install/
 
-# Intall Docker platform:
+## Intall Docker platform:
 https://docs.docker.com/get-docker/
 
 ## What can it do?
