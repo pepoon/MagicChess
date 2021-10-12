@@ -4,13 +4,13 @@
 A random Magic Chess Game.
 
 
-# MagicChess Installation Guide
+## MagicChess Installation Guide
 
-## Docker MongoDb image:
-https://hub.docker.com/_/mongo
+# Mongosh shell command guide:
+https://docs.mongodb.com/mongodb-shell/install/
 
-# M
-
+# Intall Docker platform:
+https://docs.docker.com/get-docker/
 
 ## What can it do?
 * MagicChess.Data:
@@ -22,7 +22,7 @@ https://hub.docker.com/_/mongo
 * MagicChess.Network: Magic chest network protocol implementation.
   * Includes classes for reading & writing messages (todo).
 
-The simplest way to compile MagicChess is to open the solution in Visual Studio and pressing and build the entire
+The simplest way to compile MagicChess is to open the solution in Visual Studio and build the entire
 solution, it will restore the nuget packages as well.
 
-Contact me via my e-mail, calull@gmail.com if you have any question.
+Contact me via my e-mail, calullmercade@gmail.com if you have any question.
