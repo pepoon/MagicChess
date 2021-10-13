@@ -1,9 +1,9 @@
 <h1>
- MagicChess
+ Magic Chess
 </h1>
 A random Magic Chess Game.
 
-Magic Chest Docs
+Magic Chess Docs
 https://docs.google.com/document/d/12CFaJE-s1zA5lKW2wNCjafBMAG5kc8jxfZwfVNveEzY/edit?usp=sharing
 
 # MagicChess Installation Guide
